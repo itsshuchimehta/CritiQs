@@ -1,7 +1,6 @@
 # critiQs Website
 
 ## Overview
-**Duration:** January 2023 - May 2023  
 **Tech Stack:** Django, SQLite, JavaScript, REST APIs
 
 ## Project Description
